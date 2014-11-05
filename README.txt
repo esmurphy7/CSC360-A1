@@ -1,3 +1,5 @@
+Specs - https://github.com/esmurphy7/CSC360-A1/blob/master/p1.pdf
+
 Project Features
 Core Functionality:
 1) execute internal commands such as "ls" and "ping"
